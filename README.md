@@ -1,4 +1,6 @@
-# linkedin-profile-optimizer
+# LinkedIn Profile Optimizer
+
+![Claude Skill](https://img.shields.io/badge/Claude-Skill-D97757?style=flat-square) ![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 A Claude skill that rewrites LinkedIn profile sections (headline, About, Experience, Skills, Featured) into polished, paste-ready text from a profile, resume, or target job.
 
@@ -63,8 +65,9 @@ For current upload steps, see Anthropic's guide: [Create custom skills](https://
 ## Repo contents
 
 ```
-linkedin-profile-optimizer/   the skill (SKILL.md)
-linkedin-profile-optimizer.skill   packaged file for upload
+linkedin-profile-optimizer/         the skill source (SKILL.md)
+linkedin-profile-optimizer.skill    packaged file for upload
+LICENSE                             MIT license
 ```
 
 ## Contributing
@@ -73,4 +76,4 @@ Issues and pull requests are welcome, especially example profiles where the outp
 
 ## License
 
-MIT (see `LICENSE`).
+MIT, see [LICENSE](LICENSE).
